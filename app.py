@@ -1,8 +1,10 @@
-import streamlit as st
 import pandas as pd
 import plotly.express as px
+import streamlit as st
+# Change the title here (it updates the page heading and the browser tab)
+TITLE = "Blood Demand Dashboard"
 
-st.set_page_config(page_title="Blood Demand Dashboard", page_icon="🩸", layout="wide")
+st.set_page_config(page_title=TITLE, page_icon="🩸", layout="wide")
 
 
 # ---------------------------------------------------------------------------
@@ -50,7 +52,11 @@ def grouped(df, by):
 # ---------------------------------------------------------------------------
 # Sidebar filters
 # ---------------------------------------------------------------------------
-st.sidebar.header("Filters")
+st.sidebar.markdown(
+    f"<h1 style='font-size:2.2rem; font-weight:800; line-height:1.15; margin:0 0 1rem 0; padding:0;'>🩸 {TITLE}</h1>",
+    unsafe_allow_html=True,
+)
+st.sidebar.header("⚙️ Filters")
 
 min_d, max_d = orders["ordered_at"].min().date(), orders["ordered_at"].max().date()
 date_range = st.sidebar.date_input("Order date", (min_d, max_d), min_value=min_d, max_value=max_d)
@@ -75,7 +81,6 @@ if hosp_sel:
 # ---------------------------------------------------------------------------
 # Header + KPIs
 # ---------------------------------------------------------------------------
-st.title("🩸 Blood Demand Forecasting Dashboard")
 st.caption("Requested vs issued blood units across hospitals, blood groups and components.")
 
 if df.empty:
@@ -97,8 +102,6 @@ st.divider()
 tab_blood, tab_comp, tab_hosp, tab_date, tab_summary, tab_data = st.tabs(
     ["Blood group", "Component", "Hospital", "Date", "Summary", "Dataset overview"]
 )
-
-# ---------------------------------------------------------------------------
 # Blood group
 # ---------------------------------------------------------------------------
 with tab_blood:
@@ -173,33 +176,31 @@ with tab_summary:
 
     st.subheader("Blood group")
     st.markdown(
-        f"- **Most requested:** {', '.join(bt.index[:2])} ({bt.iloc[0]:,} and {bt.iloc[1]:,} units)\n"
-        f"- **Least requested:** {', '.join(bt.index[-3:][::-1])}\n"
-        f"- **Supply gap:** {requested - issued:,} units requested but not issued "
+        f"- Most requested: {', '.join(bt.index[:2])} ({bt.iloc[0]:,} and {bt.iloc[1]:,} units)\n"
+        f"- Least requested: {', '.join(bt.index[-3:][::-1])}\n"
+        f"- Supply gap: {requested - issued:,} units requested but not issued "
         f"(fulfilment {fill_rate:.1%})"
         if len(bt) >= 2 else "Not enough blood groups in the current selection."
     )
 
     st.subheader("Component")
     st.markdown(
-        "\n".join(f"- **{name}:** {int(v):,} units requested" for name, v in cp.items())
-        + f"\n- **{cp.index[0]}** accounts for {cp.iloc[0] / cp.sum():.0%} of all requested units"
+        "\n".join(f"- {name}: {int(v):,} units requested" for name, v in cp.items())
+        + f"\n- {cp.index[0]} accounts for {cp.iloc[0] / cp.sum():.0%} of all requested units"
     )
-
-    st.subheader("Hospital")
     top = hp.iloc[0]
     st.markdown(
-        f"- **Top requester:** {hp.index[0]} ({int(top['units_requested']):,} requested, "
+        f"- Top requester: {hp.index[0]} ({int(top['units_requested']):,} requested, "
         f"{int(top['units_issued']):,} issued)\n"
-        f"- **Hospitals issued less than requested:** "
+        f"- Hospitals issued less than requested: "
         f"{int((hp['units_issued'] < hp['units_requested']).sum())} of {len(hp)}"
     )
 
     st.subheader("Date")
     st.markdown(
-        f"- **Median daily requested:** {daily['units_requested'].median():.0f} units\n"
-        f"- **Median daily issued:** {daily['units_issued'].median():.0f} units\n"
-        f"- **Days with a shortfall:** {int((daily['units_issued'] < daily['units_requested']).sum())} "
+        f"- Median daily requested: {daily['units_requested'].median():.0f} units\n"
+        f"- Median daily issued: {daily['units_issued'].median():.0f} units\n"
+        f"- Days with a shortfall: {int((daily['units_issued'] < daily['units_requested']).sum())} "
         f"of {len(daily)}"
     )
 
