@@ -1,0 +1,382 @@
+order_date,hospital_name,blood_type,total_orders,units_requested,units_issued,unfulfilled_units,fulfillment_rate
+2025-03-01,Alderbank Hospital,A+,1,1,1,0,100.0
+2025-03-01,Alderbank Hospital,AB+,1,3,1,2,33.33333333333333
+2025-03-01,Brackenmoor Hospital,A+,1,4,1,3,25.0
+2025-03-01,Pennant Hill Hospital,AB-,1,2,2,0,100.0
+2025-03-01,Pennant Hill Hospital,O+,1,2,2,0,100.0
+2025-03-01,Sandmere Hospital,A+,1,1,0,1,0.0
+2025-03-02,Alderbank Hospital,A+,1,1,1,0,100.0
+2025-03-02,Brackenmoor Hospital,O+,1,5,5,0,100.0
+2025-03-02,Linden Cross Hospital,A+,1,7,7,0,100.0
+2025-03-02,Linden Cross Hospital,O+,1,2,2,0,100.0
+2025-03-02,Queensferry Road Hospital,A-,1,7,7,0,100.0
+2025-03-02,Sandmere Hospital,O+,1,8,2,6,25.0
+2025-03-02,St Oswin Hospital,O+,1,3,2,1,66.66666666666666
+2025-03-03,Brackenmoor Hospital,A+,1,6,2,4,33.33333333333333
+2025-03-03,Brackenmoor Hospital,O+,1,5,3,2,60.0
+2025-03-04,Alderbank Hospital,O+,1,5,3,2,60.0
+2025-03-04,Brackenmoor Hospital,A+,2,3,2,1,66.66666666666666
+2025-03-04,Greywell Hospital,A-,1,4,4,0,100.0
+2025-03-04,Queensferry Road Hospital,A+,1,5,5,0,100.0
+2025-03-04,St Oswin Hospital,B+,1,1,1,0,100.0
+2025-03-04,St Oswin Hospital,O-,1,2,1,1,50.0
+2025-03-05,Alderbank Hospital,O+,2,3,2,1,66.66666666666666
+2025-03-05,Greywell Hospital,A+,1,1,0,1,0.0
+2025-03-05,Greywell Hospital,O+,2,5,4,1,80.0
+2025-03-05,Hartfield Hospital,A+,1,3,1,2,33.33333333333333
+2025-03-05,Linden Cross Hospital,A+,1,3,2,1,66.66666666666666
+2025-03-05,Linden Cross Hospital,O+,2,7,1,6,14.285714285714285
+2025-03-05,Sandmere Hospital,O-,1,4,4,0,100.0
+2025-03-05,St Oswin Hospital,O+,1,3,0,3,0.0
+2025-03-06,Coldharbour Hospital,O-,1,7,6,1,85.71428571428571
+2025-03-06,Greywell Hospital,A+,1,7,4,3,57.14285714285714
+2025-03-06,Hartfield Hospital,A+,2,9,8,1,88.88888888888889
+2025-03-06,Hartfield Hospital,O+,1,1,1,0,100.0
+2025-03-06,Linden Cross Hospital,O+,1,6,5,1,83.33333333333334
+2025-03-06,Pennant Hill Hospital,AB-,1,4,3,1,75.0
+2025-03-06,Sandmere Hospital,A+,1,1,0,1,0.0
+2025-03-07,Brackenmoor Hospital,O+,2,5,3,2,60.0
+2025-03-07,Coldharbour Hospital,B-,1,2,2,0,100.0
+2025-03-07,Linden Cross Hospital,O+,1,6,4,2,66.66666666666666
+2025-03-07,Pennant Hill Hospital,A-,1,1,1,0,100.0
+2025-03-07,Queensferry Road Hospital,O+,1,6,6,0,100.0
+2025-03-08,Queensferry Road Hospital,O+,1,1,0,1,0.0
+2025-03-08,Sandmere Hospital,O+,1,7,7,0,100.0
+2025-03-09,Alderbank Hospital,A+,1,7,7,0,100.0
+2025-03-09,Linden Cross Hospital,O+,1,1,1,0,100.0
+2025-03-09,Queensferry Road Hospital,A+,2,3,2,1,66.66666666666666
+2025-03-09,St Oswin Hospital,A+,1,2,2,0,100.0
+2025-03-09,St Oswin Hospital,O+,1,2,1,1,50.0
+2025-03-10,Alderbank Hospital,O-,1,1,0,1,0.0
+2025-03-10,Brackenmoor Hospital,A+,1,1,1,0,100.0
+2025-03-10,Coldharbour Hospital,O+,1,1,1,0,100.0
+2025-03-10,Greywell Hospital,A+,1,2,1,1,50.0
+2025-03-10,Linden Cross Hospital,O+,2,2,0,2,0.0
+2025-03-10,Linden Cross Hospital,O-,1,6,4,2,66.66666666666666
+2025-03-10,Sandmere Hospital,A+,1,1,1,0,100.0
+2025-03-11,Greywell Hospital,A+,1,2,2,0,100.0
+2025-03-11,Linden Cross Hospital,A+,1,4,1,3,25.0
+2025-03-11,Pennant Hill Hospital,A+,1,2,2,0,100.0
+2025-03-12,Brackenmoor Hospital,A+,2,8,6,2,75.0
+2025-03-12,Coldharbour Hospital,A+,3,11,7,4,63.63636363636363
+2025-03-12,Hartfield Hospital,A-,1,1,0,1,0.0
+2025-03-12,Hartfield Hospital,O+,1,2,1,1,50.0
+2025-03-12,Pennant Hill Hospital,A+,1,3,2,1,66.66666666666666
+2025-03-12,Sandmere Hospital,O-,1,3,3,0,100.0
+2025-03-13,Greywell Hospital,A-,1,7,4,3,57.14285714285714
+2025-03-13,Greywell Hospital,O+,1,3,0,3,0.0
+2025-03-13,Linden Cross Hospital,B+,1,7,7,0,100.0
+2025-03-13,Linden Cross Hospital,O+,1,1,1,0,100.0
+2025-03-13,Pennant Hill Hospital,A+,1,7,3,4,42.857142857142854
+2025-03-13,Sandmere Hospital,O+,2,5,4,1,80.0
+2025-03-13,St Oswin Hospital,B+,1,3,3,0,100.0
+2025-03-13,St Oswin Hospital,O+,1,3,3,0,100.0
+2025-03-14,Coldharbour Hospital,O+,1,4,3,1,75.0
+2025-03-14,Greywell Hospital,O+,1,7,2,5,28.57142857142857
+2025-03-14,Queensferry Road Hospital,O-,2,9,9,0,100.0
+2025-03-14,Sandmere Hospital,A+,1,1,1,0,100.0
+2025-03-15,Coldharbour Hospital,A-,1,8,3,5,37.5
+2025-03-15,Greywell Hospital,O+,1,2,1,1,50.0
+2025-03-15,Greywell Hospital,O-,1,7,3,4,42.857142857142854
+2025-03-15,Linden Cross Hospital,O+,1,5,2,3,40.0
+2025-03-15,Queensferry Road Hospital,O+,1,6,1,5,16.666666666666664
+2025-03-15,Sandmere Hospital,A+,1,5,5,0,100.0
+2025-03-15,Sandmere Hospital,AB+,1,4,1,3,25.0
+2025-03-16,Alderbank Hospital,O+,1,1,1,0,100.0
+2025-03-16,Linden Cross Hospital,A+,1,7,2,5,28.57142857142857
+2025-03-16,Linden Cross Hospital,B+,1,7,6,1,85.71428571428571
+2025-03-16,Pennant Hill Hospital,A+,1,5,4,1,80.0
+2025-03-17,Greywell Hospital,O+,1,3,1,2,33.33333333333333
+2025-03-17,Queensferry Road Hospital,O+,1,1,1,0,100.0
+2025-03-17,Sandmere Hospital,A+,2,8,7,1,87.5
+2025-03-17,Sandmere Hospital,O-,2,9,7,2,77.77777777777779
+2025-03-17,St Oswin Hospital,A+,1,8,3,5,37.5
+2025-03-18,Coldharbour Hospital,O+,1,4,2,2,50.0
+2025-03-18,Pennant Hill Hospital,O+,1,4,4,0,100.0
+2025-03-18,Queensferry Road Hospital,A+,1,1,0,1,0.0
+2025-03-18,Queensferry Road Hospital,A-,1,2,2,0,100.0
+2025-03-18,Queensferry Road Hospital,O-,1,1,1,0,100.0
+2025-03-18,Sandmere Hospital,A+,1,3,1,2,33.33333333333333
+2025-03-18,St Oswin Hospital,A+,1,7,0,7,0.0
+2025-03-18,St Oswin Hospital,B+,1,3,2,1,66.66666666666666
+2025-03-19,Coldharbour Hospital,O-,1,3,2,1,66.66666666666666
+2025-03-19,Greywell Hospital,A+,1,2,2,0,100.0
+2025-03-19,Greywell Hospital,O+,1,4,4,0,100.0
+2025-03-19,Greywell Hospital,O-,1,1,1,0,100.0
+2025-03-19,Hartfield Hospital,A+,1,2,2,0,100.0
+2025-03-19,Queensferry Road Hospital,O+,2,10,2,8,20.0
+2025-03-20,Brackenmoor Hospital,A+,1,4,4,0,100.0
+2025-03-20,Brackenmoor Hospital,A-,1,5,5,0,100.0
+2025-03-20,Coldharbour Hospital,O+,2,8,4,4,50.0
+2025-03-20,Linden Cross Hospital,A+,1,2,1,1,50.0
+2025-03-20,Linden Cross Hospital,O+,1,5,5,0,100.0
+2025-03-21,Alderbank Hospital,O+,1,6,6,0,100.0
+2025-03-21,Brackenmoor Hospital,O+,1,3,3,0,100.0
+2025-03-21,Brackenmoor Hospital,O-,1,5,1,4,20.0
+2025-03-21,Greywell Hospital,O+,1,3,1,2,33.33333333333333
+2025-03-21,Hartfield Hospital,A+,1,8,6,2,75.0
+2025-03-21,Hartfield Hospital,O+,2,8,6,2,75.0
+2025-03-21,Linden Cross Hospital,O+,1,1,1,0,100.0
+2025-03-21,Linden Cross Hospital,O-,1,4,2,2,50.0
+2025-03-21,Queensferry Road Hospital,O-,1,3,1,2,33.33333333333333
+2025-03-21,Sandmere Hospital,A+,1,1,1,0,100.0
+2025-03-21,Sandmere Hospital,O+,1,1,1,0,100.0
+2025-03-21,Sandmere Hospital,O-,1,1,0,1,0.0
+2025-03-21,St Oswin Hospital,A+,1,4,3,1,75.0
+2025-03-22,Greywell Hospital,O+,2,6,6,0,100.0
+2025-03-22,Linden Cross Hospital,A+,1,2,2,0,100.0
+2025-03-22,Queensferry Road Hospital,A+,1,4,1,3,25.0
+2025-03-22,Sandmere Hospital,B+,1,3,2,1,66.66666666666666
+2025-03-22,St Oswin Hospital,AB+,1,1,1,0,100.0
+2025-03-22,St Oswin Hospital,B-,1,1,1,0,100.0
+2025-03-23,Alderbank Hospital,B+,1,4,3,1,75.0
+2025-03-23,Linden Cross Hospital,B+,1,6,2,4,33.33333333333333
+2025-03-23,Linden Cross Hospital,O+,1,1,1,0,100.0
+2025-03-24,Alderbank Hospital,A+,1,1,0,1,0.0
+2025-03-24,Alderbank Hospital,O+,1,8,3,5,37.5
+2025-03-24,Linden Cross Hospital,O+,1,4,4,0,100.0
+2025-03-24,Queensferry Road Hospital,A+,2,7,4,3,57.14285714285714
+2025-03-24,St Oswin Hospital,A+,1,3,1,2,33.33333333333333
+2025-03-25,Coldharbour Hospital,A+,1,2,2,0,100.0
+2025-03-25,Coldharbour Hospital,O+,1,1,1,0,100.0
+2025-03-25,Linden Cross Hospital,A+,1,5,5,0,100.0
+2025-03-25,Queensferry Road Hospital,A+,2,3,3,0,100.0
+2025-03-25,St Oswin Hospital,O+,1,1,1,0,100.0
+2025-03-26,Alderbank Hospital,B+,1,1,1,0,100.0
+2025-03-26,Hartfield Hospital,B+,1,2,1,1,50.0
+2025-03-26,Hartfield Hospital,O+,1,7,4,3,57.14285714285714
+2025-03-26,Pennant Hill Hospital,O-,1,5,2,3,40.0
+2025-03-26,Queensferry Road Hospital,A-,1,1,0,1,0.0
+2025-03-26,Sandmere Hospital,A+,2,10,7,3,70.0
+2025-03-26,St Oswin Hospital,O-,1,7,7,0,100.0
+2025-03-27,Alderbank Hospital,B+,1,3,1,2,33.33333333333333
+2025-03-27,Coldharbour Hospital,O+,1,2,2,0,100.0
+2025-03-27,Greywell Hospital,A-,1,1,1,0,100.0
+2025-03-27,Greywell Hospital,B-,1,1,0,1,0.0
+2025-03-27,Pennant Hill Hospital,A+,1,4,2,2,50.0
+2025-03-27,Pennant Hill Hospital,O-,1,8,0,8,0.0
+2025-03-27,Queensferry Road Hospital,O-,1,6,1,5,16.666666666666664
+2025-03-28,Alderbank Hospital,A+,1,1,0,1,0.0
+2025-03-28,Coldharbour Hospital,A+,1,1,1,0,100.0
+2025-03-28,Greywell Hospital,B+,1,7,7,0,100.0
+2025-03-28,Hartfield Hospital,O+,1,4,1,3,25.0
+2025-03-28,Queensferry Road Hospital,A+,1,2,2,0,100.0
+2025-03-28,Queensferry Road Hospital,B+,1,1,1,0,100.0
+2025-03-28,Queensferry Road Hospital,O+,1,1,1,0,100.0
+2025-03-28,St Oswin Hospital,A+,1,2,2,0,100.0
+2025-03-28,St Oswin Hospital,O+,1,7,5,2,71.42857142857143
+2025-03-29,Alderbank Hospital,O+,2,6,6,0,100.0
+2025-03-29,Brackenmoor Hospital,O+,1,2,2,0,100.0
+2025-03-29,Coldharbour Hospital,O-,1,1,0,1,0.0
+2025-03-29,Greywell Hospital,O+,1,6,3,3,50.0
+2025-03-29,Linden Cross Hospital,A+,1,3,1,2,33.33333333333333
+2025-03-29,Sandmere Hospital,A+,1,3,2,1,66.66666666666666
+2025-03-30,Coldharbour Hospital,A+,1,5,5,0,100.0
+2025-03-30,Coldharbour Hospital,O+,1,3,2,1,66.66666666666666
+2025-03-30,Greywell Hospital,O-,1,5,0,5,0.0
+2025-03-30,Hartfield Hospital,O+,1,2,2,0,100.0
+2025-03-30,Linden Cross Hospital,A+,2,8,5,3,62.5
+2025-03-30,Pennant Hill Hospital,A+,1,2,2,0,100.0
+2025-03-30,Queensferry Road Hospital,AB+,1,2,2,0,100.0
+2025-03-30,St Oswin Hospital,A+,1,2,2,0,100.0
+2025-03-31,Brackenmoor Hospital,A+,1,2,2,0,100.0
+2025-03-31,Hartfield Hospital,A-,1,2,1,1,50.0
+2025-03-31,Hartfield Hospital,O+,1,7,1,6,14.285714285714285
+2025-03-31,Linden Cross Hospital,B-,1,6,4,2,66.66666666666666
+2025-03-31,Queensferry Road Hospital,A+,1,1,1,0,100.0
+2025-03-31,Queensferry Road Hospital,A-,1,1,0,1,0.0
+2025-03-31,Sandmere Hospital,A-,1,6,6,0,100.0
+2025-04-01,Brackenmoor Hospital,O+,1,3,1,2,33.33333333333333
+2025-04-01,Coldharbour Hospital,O+,1,5,0,5,0.0
+2025-04-01,Greywell Hospital,O+,1,1,1,0,100.0
+2025-04-01,St Oswin Hospital,A+,1,7,5,2,71.42857142857143
+2025-04-02,Brackenmoor Hospital,O+,1,1,1,0,100.0
+2025-04-02,Coldharbour Hospital,O+,1,2,1,1,50.0
+2025-04-02,Greywell Hospital,O+,1,2,2,0,100.0
+2025-04-02,Hartfield Hospital,O+,1,5,0,5,0.0
+2025-04-02,Linden Cross Hospital,O+,1,2,2,0,100.0
+2025-04-02,Queensferry Road Hospital,O-,1,1,1,0,100.0
+2025-04-03,Alderbank Hospital,O-,1,2,2,0,100.0
+2025-04-03,Brackenmoor Hospital,A-,1,8,6,2,75.0
+2025-04-03,Brackenmoor Hospital,AB+,1,3,1,2,33.33333333333333
+2025-04-03,Greywell Hospital,B+,1,6,5,1,83.33333333333334
+2025-04-03,Greywell Hospital,O+,1,3,1,2,33.33333333333333
+2025-04-03,Linden Cross Hospital,A+,1,3,2,1,66.66666666666666
+2025-04-03,Pennant Hill Hospital,A+,1,5,1,4,20.0
+2025-04-03,Queensferry Road Hospital,B-,1,2,2,0,100.0
+2025-04-03,Sandmere Hospital,O+,1,8,5,3,62.5
+2025-04-04,Alderbank Hospital,A+,1,2,2,0,100.0
+2025-04-04,Coldharbour Hospital,A+,1,5,5,0,100.0
+2025-04-04,Greywell Hospital,A-,1,1,1,0,100.0
+2025-04-04,Hartfield Hospital,AB+,1,5,5,0,100.0
+2025-04-04,Linden Cross Hospital,A+,1,1,0,1,0.0
+2025-04-04,Pennant Hill Hospital,AB+,1,2,2,0,100.0
+2025-04-04,Sandmere Hospital,O+,1,2,1,1,50.0
+2025-04-05,Greywell Hospital,O+,1,2,0,2,0.0
+2025-04-05,Linden Cross Hospital,A+,1,4,0,4,0.0
+2025-04-05,Linden Cross Hospital,O+,1,1,0,1,0.0
+2025-04-05,Linden Cross Hospital,O-,1,2,2,0,100.0
+2025-04-05,Sandmere Hospital,A+,1,2,2,0,100.0
+2025-04-06,Alderbank Hospital,O-,1,4,2,2,50.0
+2025-04-06,Coldharbour Hospital,A+,1,2,1,1,50.0
+2025-04-06,Greywell Hospital,O+,1,3,0,3,0.0
+2025-04-06,Greywell Hospital,O-,1,5,1,4,20.0
+2025-04-06,Hartfield Hospital,O-,1,3,1,2,33.33333333333333
+2025-04-06,Pennant Hill Hospital,A+,2,7,4,3,57.14285714285714
+2025-04-06,Queensferry Road Hospital,A+,1,2,2,0,100.0
+2025-04-06,Sandmere Hospital,A+,1,6,2,4,33.33333333333333
+2025-04-07,Coldharbour Hospital,AB+,1,2,2,0,100.0
+2025-04-07,Greywell Hospital,A-,1,4,4,0,100.0
+2025-04-07,Greywell Hospital,AB+,1,4,3,1,75.0
+2025-04-07,Linden Cross Hospital,A+,1,6,6,0,100.0
+2025-04-07,Linden Cross Hospital,A-,1,3,2,1,66.66666666666666
+2025-04-07,Pennant Hill Hospital,A+,1,8,7,1,87.5
+2025-04-07,Pennant Hill Hospital,B+,1,1,1,0,100.0
+2025-04-07,Sandmere Hospital,O+,2,11,8,3,72.72727272727273
+2025-04-07,St Oswin Hospital,A+,1,1,1,0,100.0
+2025-04-07,St Oswin Hospital,O+,1,1,1,0,100.0
+2025-04-08,Alderbank Hospital,A+,1,2,2,0,100.0
+2025-04-08,Alderbank Hospital,B+,1,1,1,0,100.0
+2025-04-08,Linden Cross Hospital,O-,2,4,3,1,75.0
+2025-04-08,Pennant Hill Hospital,B-,1,3,3,0,100.0
+2025-04-08,Queensferry Road Hospital,O+,1,1,1,0,100.0
+2025-04-09,Greywell Hospital,O+,1,4,3,1,75.0
+2025-04-09,Linden Cross Hospital,A+,1,5,4,1,80.0
+2025-04-10,Brackenmoor Hospital,A+,1,6,6,0,100.0
+2025-04-10,Brackenmoor Hospital,AB+,1,1,1,0,100.0
+2025-04-10,Coldharbour Hospital,O-,1,1,1,0,100.0
+2025-04-10,Pennant Hill Hospital,O+,2,6,6,0,100.0
+2025-04-10,Queensferry Road Hospital,O+,1,6,5,1,83.33333333333334
+2025-04-10,St Oswin Hospital,O+,2,4,3,1,75.0
+2025-04-11,Greywell Hospital,A-,1,1,0,1,0.0
+2025-04-11,Linden Cross Hospital,O+,1,1,0,1,0.0
+2025-04-11,St Oswin Hospital,O-,1,4,4,0,100.0
+2025-04-12,Alderbank Hospital,A+,1,1,0,1,0.0
+2025-04-12,Alderbank Hospital,O-,1,3,3,0,100.0
+2025-04-12,Brackenmoor Hospital,B-,1,4,3,1,75.0
+2025-04-12,Coldharbour Hospital,A+,2,9,9,0,100.0
+2025-04-12,Greywell Hospital,A+,1,1,1,0,100.0
+2025-04-12,Hartfield Hospital,B+,1,2,0,2,0.0
+2025-04-12,Linden Cross Hospital,A+,2,10,8,2,80.0
+2025-04-12,Linden Cross Hospital,O+,2,2,2,0,100.0
+2025-04-12,Queensferry Road Hospital,A+,1,2,1,1,50.0
+2025-04-12,Queensferry Road Hospital,O-,1,7,7,0,100.0
+2025-04-12,Sandmere Hospital,B+,1,1,0,1,0.0
+2025-04-12,St Oswin Hospital,A+,1,2,1,1,50.0
+2025-04-13,Brackenmoor Hospital,A+,1,4,3,1,75.0
+2025-04-13,Hartfield Hospital,A+,1,5,5,0,100.0
+2025-04-13,Hartfield Hospital,A-,1,4,1,3,25.0
+2025-04-13,Hartfield Hospital,O+,2,8,7,1,87.5
+2025-04-13,Pennant Hill Hospital,A+,1,4,2,2,50.0
+2025-04-13,Queensferry Road Hospital,O+,1,4,2,2,50.0
+2025-04-14,Alderbank Hospital,O-,1,7,6,1,85.71428571428571
+2025-04-14,Brackenmoor Hospital,AB-,1,1,0,1,0.0
+2025-04-14,Linden Cross Hospital,B+,1,2,1,1,50.0
+2025-04-14,Linden Cross Hospital,O+,1,1,1,0,100.0
+2025-04-14,Pennant Hill Hospital,A+,1,6,1,5,16.666666666666664
+2025-04-14,Pennant Hill Hospital,B-,1,5,2,3,40.0
+2025-04-14,Queensferry Road Hospital,B+,1,5,1,4,20.0
+2025-04-14,Queensferry Road Hospital,B-,1,2,1,1,50.0
+2025-04-14,Queensferry Road Hospital,O+,1,4,3,1,75.0
+2025-04-14,St Oswin Hospital,A-,1,4,4,0,100.0
+2025-04-15,Alderbank Hospital,O+,1,2,1,1,50.0
+2025-04-15,Brackenmoor Hospital,B-,1,5,2,3,40.0
+2025-04-15,Coldharbour Hospital,O+,1,7,7,0,100.0
+2025-04-15,Greywell Hospital,A+,1,8,8,0,100.0
+2025-04-15,Linden Cross Hospital,A-,1,4,3,1,75.0
+2025-04-15,Sandmere Hospital,O+,1,6,1,5,16.666666666666664
+2025-04-15,St Oswin Hospital,A+,1,2,1,1,50.0
+2025-04-16,Alderbank Hospital,A+,1,2,2,0,100.0
+2025-04-16,Greywell Hospital,A+,1,1,0,1,0.0
+2025-04-16,Greywell Hospital,B+,1,3,3,0,100.0
+2025-04-16,Greywell Hospital,B-,1,2,1,1,50.0
+2025-04-16,Greywell Hospital,O+,2,3,3,0,100.0
+2025-04-16,Hartfield Hospital,A+,1,4,4,0,100.0
+2025-04-16,Linden Cross Hospital,O+,1,2,2,0,100.0
+2025-04-16,Pennant Hill Hospital,A+,1,1,1,0,100.0
+2025-04-16,Pennant Hill Hospital,O+,1,4,4,0,100.0
+2025-04-16,Pennant Hill Hospital,O-,1,1,1,0,100.0
+2025-04-17,Alderbank Hospital,O+,1,3,1,2,33.33333333333333
+2025-04-17,Coldharbour Hospital,O+,1,1,1,0,100.0
+2025-04-17,Coldharbour Hospital,O-,1,1,1,0,100.0
+2025-04-17,Greywell Hospital,O+,1,4,1,3,25.0
+2025-04-17,Greywell Hospital,O-,1,2,0,2,0.0
+2025-04-17,Hartfield Hospital,O-,2,7,4,3,57.14285714285714
+2025-04-17,Linden Cross Hospital,O-,1,1,1,0,100.0
+2025-04-17,Queensferry Road Hospital,A+,1,5,1,4,20.0
+2025-04-17,Sandmere Hospital,B-,1,1,0,1,0.0
+2025-04-17,Sandmere Hospital,O-,1,6,5,1,83.33333333333334
+2025-04-18,Alderbank Hospital,O+,1,2,1,1,50.0
+2025-04-18,Queensferry Road Hospital,A+,1,6,6,0,100.0
+2025-04-18,St Oswin Hospital,O+,1,4,4,0,100.0
+2025-04-19,Brackenmoor Hospital,O-,1,1,1,0,100.0
+2025-04-19,Hartfield Hospital,A+,2,12,5,7,41.66666666666667
+2025-04-19,Pennant Hill Hospital,O-,1,3,3,0,100.0
+2025-04-19,Queensferry Road Hospital,O+,1,4,4,0,100.0
+2025-04-20,Coldharbour Hospital,O+,1,1,0,1,0.0
+2025-04-20,Greywell Hospital,O+,2,2,1,1,50.0
+2025-04-20,Greywell Hospital,O-,1,1,1,0,100.0
+2025-04-20,Linden Cross Hospital,O+,1,5,1,4,20.0
+2025-04-20,Pennant Hill Hospital,A+,1,4,3,1,75.0
+2025-04-20,Sandmere Hospital,A+,1,1,1,0,100.0
+2025-04-20,Sandmere Hospital,A-,1,5,3,2,60.0
+2025-04-20,St Oswin Hospital,O+,1,3,1,2,33.33333333333333
+2025-04-21,Alderbank Hospital,O+,2,10,7,3,70.0
+2025-04-21,Alderbank Hospital,O-,1,1,1,0,100.0
+2025-04-21,Brackenmoor Hospital,B+,1,2,1,1,50.0
+2025-04-21,Hartfield Hospital,A+,1,7,7,0,100.0
+2025-04-21,Hartfield Hospital,B+,1,1,1,0,100.0
+2025-04-21,Hartfield Hospital,O+,1,1,1,0,100.0
+2025-04-21,Pennant Hill Hospital,O-,1,3,2,1,66.66666666666666
+2025-04-21,Queensferry Road Hospital,O+,1,1,1,0,100.0
+2025-04-21,Sandmere Hospital,O-,1,2,2,0,100.0
+2025-04-22,Alderbank Hospital,A-,1,7,5,2,71.42857142857143
+2025-04-22,Linden Cross Hospital,A+,1,1,1,0,100.0
+2025-04-22,Linden Cross Hospital,AB+,1,4,3,1,75.0
+2025-04-22,Pennant Hill Hospital,O+,1,2,0,2,0.0
+2025-04-22,Queensferry Road Hospital,A+,1,3,3,0,100.0
+2025-04-22,Queensferry Road Hospital,AB+,1,1,0,1,0.0
+2025-04-22,St Oswin Hospital,A-,1,4,3,1,75.0
+2025-04-22,St Oswin Hospital,O+,1,1,0,1,0.0
+2025-04-23,Brackenmoor Hospital,B-,1,2,2,0,100.0
+2025-04-23,Brackenmoor Hospital,O+,1,7,2,5,28.57142857142857
+2025-04-23,Greywell Hospital,O-,1,4,2,2,50.0
+2025-04-23,Hartfield Hospital,AB+,1,2,1,1,50.0
+2025-04-23,Pennant Hill Hospital,A+,1,2,2,0,100.0
+2025-04-23,Sandmere Hospital,A-,1,3,1,2,33.33333333333333
+2025-04-23,Sandmere Hospital,O+,1,4,3,1,75.0
+2025-04-23,St Oswin Hospital,A+,1,4,2,2,50.0
+2025-04-24,Coldharbour Hospital,O-,1,1,0,1,0.0
+2025-04-24,Pennant Hill Hospital,O+,1,4,3,1,75.0
+2025-04-24,St Oswin Hospital,A+,1,3,3,0,100.0
+2025-04-25,Coldharbour Hospital,A+,1,2,1,1,50.0
+2025-04-25,Linden Cross Hospital,O+,1,2,2,0,100.0
+2025-04-25,Pennant Hill Hospital,A+,1,1,0,1,0.0
+2025-04-25,Pennant Hill Hospital,O+,1,7,7,0,100.0
+2025-04-26,Brackenmoor Hospital,O-,1,1,1,0,100.0
+2025-04-26,Greywell Hospital,A+,1,2,1,1,50.0
+2025-04-26,Greywell Hospital,O+,1,3,1,2,33.33333333333333
+2025-04-26,Greywell Hospital,O-,1,6,5,1,83.33333333333334
+2025-04-26,Hartfield Hospital,A+,1,4,2,2,50.0
+2025-04-26,Queensferry Road Hospital,AB-,1,5,5,0,100.0
+2025-04-27,Alderbank Hospital,AB+,1,3,3,0,100.0
+2025-04-27,Alderbank Hospital,B+,1,4,1,3,25.0
+2025-04-27,Greywell Hospital,A+,1,8,8,0,100.0
+2025-04-27,Hartfield Hospital,O+,1,2,0,2,0.0
+2025-04-27,Linden Cross Hospital,A-,1,1,1,0,100.0
+2025-04-27,Pennant Hill Hospital,O+,1,2,0,2,0.0
+2025-04-27,Queensferry Road Hospital,O+,1,4,4,0,100.0
+2025-04-27,Sandmere Hospital,B+,1,1,0,1,0.0
+2025-04-27,Sandmere Hospital,O+,1,4,3,1,75.0
+2025-04-27,St Oswin Hospital,O-,1,7,7,0,100.0
+2025-04-28,Alderbank Hospital,A+,2,9,2,7,22.22222222222222
+2025-04-28,Greywell Hospital,AB+,1,4,0,4,0.0
+2025-04-28,Greywell Hospital,O+,1,6,5,1,83.33333333333334
+2025-04-28,Pennant Hill Hospital,A+,1,1,1,0,100.0
+2025-04-28,St Oswin Hospital,A-,1,2,2,0,100.0
+2025-04-28,St Oswin Hospital,O+,1,7,3,4,42.857142857142854
+2025-04-29,Coldharbour Hospital,O+,1,3,3,0,100.0
+2025-04-29,Greywell Hospital,A+,1,1,1,0,100.0
+2025-04-29,Linden Cross Hospital,A+,1,1,1,0,100.0
+2025-04-29,Linden Cross Hospital,B-,1,3,2,1,66.66666666666666
+2025-04-29,Queensferry Road Hospital,O+,1,1,1,0,100.0

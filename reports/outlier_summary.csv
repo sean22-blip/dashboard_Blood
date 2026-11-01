@@ -1,0 +1,12 @@
+dataset,column,Q1,Q3,IQR,lower_bound,upper_bound,outlier_count
+daily_stock,o_pos_units,190.0,209.0,19.0,161.5,237.5,1
+daily_stock,a_pos_units,172.0,191.0,19.0,143.5,219.5,0
+daily_stock,b_pos_units,47.0,56.0,9.0,33.5,69.5,2
+daily_stock,ab_pos_units,17.0,21.0,4.0,11.0,27.0,0
+daily_stock,o_neg_units,47.0,58.0,11.0,30.5,74.5,0
+daily_stock,a_neg_units,34.0,41.0,7.0,23.5,51.5,3
+daily_stock,b_neg_units,12.0,14.0,2.0,9.0,17.0,4
+daily_stock,ab_neg_units,7.0,9.0,2.0,4.0,12.0,1
+donations,volume_ml,453.0,475.0,22.0,420.0,508.0,0
+blood_orders,units_requested,1.0,5.0,4.0,-5.0,11.0,0
+blood_orders,units_issued,1.0,3.0,2.0,-2.0,6.0,20

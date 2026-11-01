@@ -1,0 +1,10 @@
+Outlier Analysis – Blood Orders
+The IQR method identified 20 potential outliers (4.8% of 420 records) in the units_issued column, 
+with all flagged records containing 7–8 units. Further investigation found that 
+emergency orders had the highest proportion of high-volume orders (16.7%). 
+
+However, this category contains only 24 records, so the result should be interpreted cautiously.
+
+These findings describe patterns in the dataset and do not establish that urgency or blood component causes larger orders. 
+Since the flagged records do not violate the basic rule that units issued must not exceed units requested,
+ they were retained rather than automatically removed.

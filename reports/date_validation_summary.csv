@@ -1,0 +1,6 @@
+dataset,column,total_records,invalid_dates,earliest_date,latest_date,status
+centres,opened_on,4,0,2004-03-16,2013-08-31,PASS
+donors,registered_on,220,0,2024-10-01,2025-01-31,PASS
+daily_stock,stock_date,240,0,2025-03-01,2025-04-29,PASS
+donations,collected_on,340,0,2024-10-01,2025-09-19,PASS
+blood_orders,ordered_at,420,0,2025-03-01,2025-04-29,PASS

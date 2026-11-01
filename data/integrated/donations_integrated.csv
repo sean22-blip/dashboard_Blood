@@ -1,0 +1,341 @@
+id,donor_id,centre_id,collected_on,blood_type,volume_ml,screening_outcome,donor_code,donor_blood_type,birth_year,sex,registered_on,centre_name,centre_town,centre_opened_on
+1,172,4,2025-02-23,A-,454,quarantined,DN5820733,A-,1992,Male,2025-01-30,Western Blood Centre,Fort Nestorchester,2013-08-31
+2,121,1,2025-02-10,A+,458,released,DN5012954,A+,1967,Female,2025-01-18,Eastern Blood Centre,Garnettchester,2007-10-09
+3,48,2,2024-11-03,O+,447,released,DN0747220,O+,1976,Female,2024-10-19,Northern Blood Centre,Gainesville,2004-03-16
+4,70,3,2024-12-25,O+,460,released,DN6205364,O+,1991,Female,2024-11-26,Southern Blood Centre,South Gilberto,2010-04-13
+5,177,4,2025-02-02,A+,451,released,DN2805578,A+,1980,Female,2025-01-08,Western Blood Centre,Fort Nestorchester,2013-08-31
+6,1,2,2024-10-29,A-,470,released,DN7683398,A-,1971,Female,2024-10-22,Northern Blood Centre,Gainesville,2004-03-16
+7,56,3,2024-11-16,A+,455,quarantined,DN5520893,A+,1963,Female,2024-11-02,Southern Blood Centre,South Gilberto,2010-04-13
+8,136,2,2025-02-08,A+,483,released,DN7680724,A+,1978,Female,2025-01-19,Northern Blood Centre,Gainesville,2004-03-16
+9,145,3,2025-01-01,O+,445,released,DN1244756,O+,1995,Male,2024-12-20,Southern Blood Centre,South Gilberto,2010-04-13
+10,52,4,2024-10-31,B+,472,released,DN6649124,B+,1968,Male,2024-10-09,Western Blood Centre,Fort Nestorchester,2013-08-31
+11,55,1,2024-11-09,B-,480,released,DN5592775,B-,1987,Male,2024-10-25,Eastern Blood Centre,Garnettchester,2007-10-09
+12,115,1,2024-11-04,A+,460,released,DN4829794,A+,2003,Female,2024-10-14,Eastern Blood Centre,Garnettchester,2007-10-09
+13,11,2,2025-01-22,A+,480,released,DN2855971,A+,1959,Female,2025-01-06,Northern Blood Centre,Gainesville,2004-03-16
+14,174,1,2025-01-30,B+,483,released,DN9568471,B+,1963,Male,2025-01-14,Eastern Blood Centre,Garnettchester,2007-10-09
+15,171,3,2024-12-31,O-,454,released,DN6954780,O-,1959,Female,2024-12-22,Southern Blood Centre,South Gilberto,2010-04-13
+16,108,1,2024-12-17,A+,482,released,DN3575511,A+,2002,Female,2024-11-17,Eastern Blood Centre,Garnettchester,2007-10-09
+17,106,2,2024-12-29,B-,476,released,DN5031815,B-,2004,Female,2024-12-05,Northern Blood Centre,Gainesville,2004-03-16
+18,213,1,2025-02-09,A+,484,released,DN7076213,A+,2000,Male,2025-01-19,Eastern Blood Centre,Garnettchester,2007-10-09
+19,99,2,2024-12-07,A+,442,released,DN7337529,A+,1980,Female,2024-11-07,Northern Blood Centre,Gainesville,2004-03-16
+20,51,2,2025-01-16,A+,442,discarded,DN4837899,A+,1966,Female,2024-12-24,Northern Blood Centre,Gainesville,2004-03-16
+21,77,3,2025-01-07,A-,482,released,DN8219981,A-,1988,Female,2025-01-07,Southern Blood Centre,South Gilberto,2010-04-13
+22,111,2,2024-10-19,O+,446,released,DN8697648,O+,1980,Male,2024-10-03,Northern Blood Centre,Gainesville,2004-03-16
+23,111,2,2025-01-20,O+,450,released,DN8697648,O+,1980,Male,2024-10-03,Northern Blood Centre,Gainesville,2004-03-16
+24,32,1,2025-01-04,A+,448,released,DN3695739,A+,1983,Female,2024-12-24,Eastern Blood Centre,Garnettchester,2007-10-09
+25,103,3,2024-11-14,A+,483,released,DN7099901,A+,1963,Female,2024-11-10,Southern Blood Centre,South Gilberto,2010-04-13
+26,200,1,2025-01-24,O+,479,released,DN3912854,O+,1994,Female,2024-12-31,Eastern Blood Centre,Garnettchester,2007-10-09
+27,163,4,2024-12-09,O+,474,released,DN7189092,O+,1969,Female,2024-11-25,Western Blood Centre,Fort Nestorchester,2013-08-31
+28,93,4,2025-02-12,O-,471,released,DN0011637,O-,1994,Female,2025-01-23,Western Blood Centre,Fort Nestorchester,2013-08-31
+29,91,3,2024-12-04,O-,479,released,DN9052211,O-,1996,Female,2024-11-23,Southern Blood Centre,South Gilberto,2010-04-13
+30,11,3,2025-04-19,A+,447,released,DN2855971,A+,1959,Female,2025-01-06,Southern Blood Centre,South Gilberto,2010-04-13
+31,219,1,2025-02-03,O-,442,released,DN3895144,O-,1961,Male,2025-01-11,Eastern Blood Centre,Garnettchester,2007-10-09
+32,34,2,2025-01-12,O+,478,released,DN9880711,O+,1985,Male,2024-12-25,Northern Blood Centre,Gainesville,2004-03-16
+33,100,1,2024-12-15,O+,465,released,DN6342631,O+,1981,Male,2024-11-21,Eastern Blood Centre,Garnettchester,2007-10-09
+34,214,4,2025-01-19,O-,479,released,DN2519281,O-,1982,Female,2025-01-04,Western Blood Centre,Fort Nestorchester,2013-08-31
+35,199,4,2025-01-29,A-,472,released,DN6919527,A-,1983,Male,2025-01-06,Western Blood Centre,Fort Nestorchester,2013-08-31
+36,173,4,2024-10-05,A-,459,released,DN9225554,A-,1963,Male,2024-10-04,Western Blood Centre,Fort Nestorchester,2013-08-31
+37,50,4,2025-02-10,A+,467,quarantined,DN5174898,A+,1978,Male,2025-01-14,Western Blood Centre,Fort Nestorchester,2013-08-31
+38,120,3,2024-12-07,O+,441,released,DN4594878,O+,1982,Male,2024-11-28,Southern Blood Centre,South Gilberto,2010-04-13
+39,12,1,2024-12-12,B+,440,released,DN5505954,B+,1959,Female,2024-11-13,Eastern Blood Centre,Garnettchester,2007-10-09
+40,58,1,2024-10-25,O+,446,released,DN9678367,O+,1969,Female,2024-10-22,Eastern Blood Centre,Garnettchester,2007-10-09
+41,146,3,2024-12-04,A-,475,released,DN7643767,A-,1991,Female,2024-11-22,Southern Blood Centre,South Gilberto,2010-04-13
+42,201,3,2025-01-31,O-,466,released,DN8666204,O-,1977,Female,2025-01-11,Southern Blood Centre,South Gilberto,2010-04-13
+43,28,4,2024-11-22,O+,454,discarded,DN8091785,O+,1976,Female,2024-11-01,Western Blood Centre,Fort Nestorchester,2013-08-31
+44,175,4,2024-11-24,A+,440,released,DN4346987,A+,2004,Female,2024-11-06,Western Blood Centre,Fort Nestorchester,2013-08-31
+45,169,3,2024-11-10,A+,449,released,DN3626162,A+,1973,Female,2024-10-24,Southern Blood Centre,South Gilberto,2010-04-13
+46,81,4,2025-02-01,O+,457,released,DN0036424,O+,1982,Female,2025-01-11,Western Blood Centre,Fort Nestorchester,2013-08-31
+47,88,3,2024-12-29,O+,471,released,DN7926056,O+,1998,Female,2024-12-24,Southern Blood Centre,South Gilberto,2010-04-13
+48,37,4,2024-10-23,O+,465,released,DN5102323,O+,1965,Female,2024-10-07,Western Blood Centre,Fort Nestorchester,2013-08-31
+49,177,4,2025-05-24,A+,480,released,DN2805578,A+,1980,Female,2025-01-08,Western Blood Centre,Fort Nestorchester,2013-08-31
+50,64,1,2024-11-11,O+,447,released,DN2664091,O+,2000,Male,2024-11-01,Eastern Blood Centre,Garnettchester,2007-10-09
+51,104,3,2024-11-04,A+,461,released,DN4624386,A+,1959,Female,2024-11-04,Southern Blood Centre,South Gilberto,2010-04-13
+52,173,2,2025-01-14,A-,484,released,DN9225554,A-,1963,Male,2024-10-04,Northern Blood Centre,Gainesville,2004-03-16
+53,201,4,2025-05-01,O-,478,released,DN8666204,O-,1977,Female,2025-01-11,Western Blood Centre,Fort Nestorchester,2013-08-31
+54,35,2,2024-11-21,O+,460,released,DN1796429,O+,1991,Male,2024-11-09,Northern Blood Centre,Gainesville,2004-03-16
+55,4,3,2024-10-10,A+,442,released,DN0780891,A+,1989,Female,2024-10-08,Southern Blood Centre,South Gilberto,2010-04-13
+56,70,3,2025-04-18,O+,442,released,DN6205364,O+,1991,Female,2024-11-26,Southern Blood Centre,South Gilberto,2010-04-13
+57,215,1,2024-12-30,A+,480,released,DN0538317,A+,1967,Male,2024-12-01,Eastern Blood Centre,Garnettchester,2007-10-09
+58,208,3,2024-12-24,O+,456,released,DN1025424,O+,1964,Male,2024-11-28,Southern Blood Centre,South Gilberto,2010-04-13
+59,150,3,2024-10-31,A-,470,released,DN4075406,A-,1982,Female,2024-10-25,Southern Blood Centre,South Gilberto,2010-04-13
+60,18,4,2024-11-30,A+,462,released,DN5659988,A+,1983,Male,2024-11-06,Western Blood Centre,Fort Nestorchester,2013-08-31
+61,157,2,2025-01-16,O+,462,released,DN6951160,O+,1984,Male,2024-12-30,Northern Blood Centre,Gainesville,2004-03-16
+62,150,3,2025-02-04,A-,483,released,DN4075406,A-,1982,Female,2024-10-25,Southern Blood Centre,South Gilberto,2010-04-13
+63,66,3,2025-02-14,O+,458,released,DN2866947,O+,1997,Female,2025-01-24,Southern Blood Centre,South Gilberto,2010-04-13
+64,124,2,2024-11-18,O+,453,released,DN8949180,O+,2003,Female,2024-10-22,Northern Blood Centre,Gainesville,2004-03-16
+65,16,1,2025-01-20,A+,462,released,DN5971037,A+,1979,Female,2025-01-16,Eastern Blood Centre,Garnettchester,2007-10-09
+66,150,1,2025-05-20,A-,463,released,DN4075406,A-,1982,Female,2024-10-25,Eastern Blood Centre,Garnettchester,2007-10-09
+67,81,3,2025-05-04,O+,456,released,DN0036424,O+,1982,Female,2025-01-11,Southern Blood Centre,South Gilberto,2010-04-13
+68,119,2,2025-01-17,O+,446,released,DN4865073,O+,1998,Female,2025-01-14,Northern Blood Centre,Gainesville,2004-03-16
+69,108,3,2025-04-08,A+,457,released,DN3575511,A+,2002,Female,2024-11-17,Southern Blood Centre,South Gilberto,2010-04-13
+70,1,1,2025-01-24,A-,445,released,DN7683398,A-,1971,Female,2024-10-22,Eastern Blood Centre,Garnettchester,2007-10-09
+71,155,4,2024-12-25,O-,473,released,DN6392364,O-,1987,Female,2024-11-25,Western Blood Centre,Fort Nestorchester,2013-08-31
+72,187,3,2025-02-01,A+,455,released,DN4857747,A+,1978,Male,2025-01-22,Southern Blood Centre,South Gilberto,2010-04-13
+73,57,1,2024-11-30,A+,484,released,DN1159086,A+,1990,Female,2024-11-15,Eastern Blood Centre,Garnettchester,2007-10-09
+74,83,2,2024-12-09,A-,461,released,DN7827893,A-,1967,Female,2024-11-11,Northern Blood Centre,Gainesville,2004-03-16
+75,154,2,2024-12-02,A+,479,released,DN9600017,A+,2004,Female,2024-11-08,Northern Blood Centre,Gainesville,2004-03-16
+76,44,4,2024-10-30,B+,447,released,DN1456976,B+,1992,Male,2024-10-21,Western Blood Centre,Fort Nestorchester,2013-08-31
+77,176,4,2024-12-06,A-,469,released,DN8726669,A-,1968,Female,2024-11-09,Western Blood Centre,Fort Nestorchester,2013-08-31
+78,124,1,2025-03-03,O+,445,released,DN8949180,O+,2003,Female,2024-10-22,Eastern Blood Centre,Garnettchester,2007-10-09
+79,197,3,2025-01-31,A-,478,released,DN5533641,A-,1988,Male,2025-01-04,Southern Blood Centre,South Gilberto,2010-04-13
+80,209,4,2025-01-12,A+,476,released,DN7089509,A+,2001,Male,2024-12-26,Western Blood Centre,Fort Nestorchester,2013-08-31
+81,42,3,2024-12-02,O+,476,released,DN2569082,O+,1961,Female,2024-11-14,Southern Blood Centre,South Gilberto,2010-04-13
+82,57,3,2025-03-07,A+,471,released,DN1159086,A+,1990,Female,2024-11-15,Southern Blood Centre,South Gilberto,2010-04-13
+83,54,1,2024-12-12,B+,468,quarantined,DN4540404,B+,1991,Female,2024-11-18,Eastern Blood Centre,Garnettchester,2007-10-09
+84,9,2,2024-11-24,A+,469,released,DN5706039,A+,1973,Male,2024-11-24,Northern Blood Centre,Gainesville,2004-03-16
+85,203,3,2024-11-13,A+,479,released,DN5190495,A+,1997,Female,2024-11-05,Southern Blood Centre,South Gilberto,2010-04-13
+86,30,2,2025-02-17,A+,479,released,DN6535139,A+,1984,Male,2025-01-25,Northern Blood Centre,Gainesville,2004-03-16
+87,12,4,2025-03-07,B+,448,released,DN5505954,B+,1959,Female,2024-11-13,Western Blood Centre,Fort Nestorchester,2013-08-31
+88,213,4,2025-05-12,A+,453,released,DN7076213,A+,2000,Male,2025-01-19,Western Blood Centre,Fort Nestorchester,2013-08-31
+89,122,3,2024-10-09,O+,449,released,DN6487839,O+,1984,Male,2024-10-09,Southern Blood Centre,South Gilberto,2010-04-13
+90,207,1,2024-12-04,A-,456,released,DN3442332,A-,1980,Female,2024-11-25,Eastern Blood Centre,Garnettchester,2007-10-09
+91,159,1,2025-01-27,B+,449,discarded,DN3066929,B+,1975,Female,2025-01-08,Eastern Blood Centre,Garnettchester,2007-10-09
+92,26,1,2024-12-27,A+,463,released,DN6278108,A+,1967,Female,2024-12-14,Eastern Blood Centre,Garnettchester,2007-10-09
+93,19,2,2025-02-13,O+,464,released,DN9062468,O+,1980,Female,2025-01-28,Northern Blood Centre,Gainesville,2004-03-16
+94,101,3,2025-01-15,B+,449,released,DN6055689,B+,1970,Female,2025-01-12,Southern Blood Centre,South Gilberto,2010-04-13
+95,205,4,2024-12-07,A+,448,released,DN2338936,A+,1972,Female,2024-11-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+96,167,2,2024-12-24,A+,454,released,DN9822707,A+,1994,Female,2024-12-22,Northern Blood Centre,Gainesville,2004-03-16
+97,131,2,2024-12-20,A+,453,released,DN8584828,A+,1994,Male,2024-11-20,Northern Blood Centre,Gainesville,2004-03-16
+98,27,4,2024-12-17,AB+,468,released,DN6698204,AB+,2005,Male,2024-12-17,Western Blood Centre,Fort Nestorchester,2013-08-31
+99,220,1,2024-11-25,O-,477,released,DN4968104,O-,1960,Female,2024-11-19,Eastern Blood Centre,Garnettchester,2007-10-09
+100,88,4,2025-04-22,O+,467,released,DN7926056,O+,1998,Female,2024-12-24,Western Blood Centre,Fort Nestorchester,2013-08-31
+101,160,3,2025-01-20,A+,453,released,DN7436805,A+,1999,Female,2025-01-03,Southern Blood Centre,South Gilberto,2010-04-13
+102,146,2,2025-03-15,A-,469,released,DN7643767,A-,1991,Female,2024-11-22,Northern Blood Centre,Gainesville,2004-03-16
+103,182,1,2025-01-29,O+,477,released,DN9828001,O+,1993,Male,2025-01-15,Eastern Blood Centre,Garnettchester,2007-10-09
+104,103,4,2025-02-15,A+,455,released,DN7099901,A+,1963,Female,2024-11-10,Western Blood Centre,Fort Nestorchester,2013-08-31
+105,98,3,2025-02-17,B-,456,released,DN4227481,B-,1964,Female,2025-01-31,Southern Blood Centre,South Gilberto,2010-04-13
+106,112,1,2024-11-26,A+,463,released,DN9042884,A+,2006,Male,2024-11-08,Eastern Blood Centre,Garnettchester,2007-10-09
+107,17,1,2024-12-18,O+,450,released,DN6958626,O+,2006,Male,2024-12-03,Eastern Blood Centre,Garnettchester,2007-10-09
+108,24,1,2025-01-03,A+,456,released,DN7920684,A+,1998,Female,2024-12-05,Eastern Blood Centre,Garnettchester,2007-10-09
+109,163,3,2025-03-29,O+,461,released,DN7189092,O+,1969,Female,2024-11-25,Southern Blood Centre,South Gilberto,2010-04-13
+110,126,3,2024-12-25,B+,468,released,DN1844619,B+,1974,Male,2024-11-28,Southern Blood Centre,South Gilberto,2010-04-13
+111,219,4,2025-05-02,O-,448,released,DN3895144,O-,1961,Male,2025-01-11,Western Blood Centre,Fort Nestorchester,2013-08-31
+112,217,2,2024-12-08,O+,472,released,DN1420891,O+,1965,Female,2024-11-15,Northern Blood Centre,Gainesville,2004-03-16
+113,91,4,2025-03-03,O-,472,released,DN9052211,O-,1996,Female,2024-11-23,Western Blood Centre,Fort Nestorchester,2013-08-31
+114,144,1,2025-02-02,O+,465,released,DN3442500,O+,1986,Male,2025-01-23,Eastern Blood Centre,Garnettchester,2007-10-09
+115,25,4,2024-10-23,B+,471,released,DN5063973,B+,1986,Female,2024-10-20,Western Blood Centre,Fort Nestorchester,2013-08-31
+116,66,4,2025-05-18,O+,473,released,DN2866947,O+,1997,Female,2025-01-24,Western Blood Centre,Fort Nestorchester,2013-08-31
+117,101,3,2025-04-18,B+,456,released,DN6055689,B+,1970,Female,2025-01-12,Southern Blood Centre,South Gilberto,2010-04-13
+118,141,1,2024-11-30,O+,454,released,DN5860297,O+,1998,Male,2024-11-01,Eastern Blood Centre,Garnettchester,2007-10-09
+119,75,1,2024-11-30,A+,442,released,DN7032251,A+,1961,Male,2024-11-07,Eastern Blood Centre,Garnettchester,2007-10-09
+120,149,4,2024-10-20,O+,474,released,DN2049856,O+,1967,Male,2024-10-06,Western Blood Centre,Fort Nestorchester,2013-08-31
+121,61,1,2024-12-05,O+,451,released,DN6949935,O+,1971,Female,2024-11-08,Eastern Blood Centre,Garnettchester,2007-10-09
+122,193,3,2025-01-19,O+,454,released,DN5485607,O+,1964,Male,2024-12-25,Southern Blood Centre,South Gilberto,2010-04-13
+123,6,4,2024-11-07,O+,458,released,DN7130499,O+,1976,Female,2024-10-09,Western Blood Centre,Fort Nestorchester,2013-08-31
+124,176,1,2025-03-08,A-,448,released,DN8726669,A-,1968,Female,2024-11-09,Eastern Blood Centre,Garnettchester,2007-10-09
+125,158,4,2024-11-07,O+,469,released,DN4451782,O+,1984,Female,2024-10-30,Western Blood Centre,Fort Nestorchester,2013-08-31
+126,183,2,2024-10-22,AB-,453,released,DN4497961,AB-,1971,Female,2024-10-04,Northern Blood Centre,Gainesville,2004-03-16
+127,92,3,2024-11-22,B+,449,released,DN9889289,B+,1977,Male,2024-11-15,Southern Blood Centre,South Gilberto,2010-04-13
+128,25,3,2025-01-31,B+,451,quarantined,DN5063973,B+,1986,Female,2024-10-20,Southern Blood Centre,South Gilberto,2010-04-13
+129,123,3,2025-01-20,O+,463,released,DN2395421,O+,1973,Female,2025-01-20,Southern Blood Centre,South Gilberto,2010-04-13
+130,105,1,2024-11-18,A+,469,released,DN1947235,A+,1991,Female,2024-11-12,Eastern Blood Centre,Garnettchester,2007-10-09
+131,11,1,2025-08-01,A+,449,released,DN2855971,A+,1959,Female,2025-01-06,Eastern Blood Centre,Garnettchester,2007-10-09
+132,202,3,2024-10-17,B+,483,released,DN4058009,B+,1959,Female,2024-10-01,Southern Blood Centre,South Gilberto,2010-04-13
+133,157,2,2025-05-01,O+,480,released,DN6951160,O+,1984,Male,2024-12-30,Northern Blood Centre,Gainesville,2004-03-16
+134,205,4,2025-03-11,A+,451,released,DN2338936,A+,1972,Female,2024-11-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+135,123,4,2025-05-02,O+,454,released,DN2395421,O+,1973,Female,2025-01-20,Western Blood Centre,Fort Nestorchester,2013-08-31
+136,159,3,2025-05-18,B+,475,released,DN3066929,B+,1975,Female,2025-01-08,Southern Blood Centre,South Gilberto,2010-04-13
+137,188,1,2025-02-03,O+,484,released,DN9402389,O+,1981,Female,2025-01-09,Eastern Blood Centre,Garnettchester,2007-10-09
+138,140,4,2025-02-12,O+,455,quarantined,DN2249230,O+,2004,Female,2025-01-13,Western Blood Centre,Fort Nestorchester,2013-08-31
+139,153,3,2025-01-06,O+,452,released,DN8144710,O+,2002,Male,2024-12-07,Southern Blood Centre,South Gilberto,2010-04-13
+140,85,1,2025-01-27,O+,457,released,DN5478207,O+,1959,Male,2025-01-17,Eastern Blood Centre,Garnettchester,2007-10-09
+141,87,4,2024-10-26,A+,472,quarantined,DN9597456,A+,1965,Female,2024-10-25,Western Blood Centre,Fort Nestorchester,2013-08-31
+142,63,2,2024-11-14,O+,444,discarded,DN6888331,O+,1965,Male,2024-10-19,Northern Blood Centre,Gainesville,2004-03-16
+143,45,4,2024-12-28,O+,457,released,DN6042668,O+,2004,Female,2024-12-21,Western Blood Centre,Fort Nestorchester,2013-08-31
+144,117,4,2025-01-02,A-,474,released,DN2365708,A-,1963,Female,2024-12-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+145,199,4,2025-05-10,A-,479,discarded,DN6919527,A-,1983,Male,2025-01-06,Western Blood Centre,Fort Nestorchester,2013-08-31
+146,110,4,2024-11-30,A+,483,released,DN9240211,A+,1988,Male,2024-11-26,Western Blood Centre,Fort Nestorchester,2013-08-31
+147,84,4,2025-01-19,O+,485,released,DN6086515,O+,1975,Female,2025-01-19,Western Blood Centre,Fort Nestorchester,2013-08-31
+148,9,3,2025-03-10,A+,476,released,DN5706039,A+,1973,Male,2024-11-24,Southern Blood Centre,South Gilberto,2010-04-13
+149,86,3,2024-10-09,O+,457,quarantined,DN4541143,O+,1970,Female,2024-10-09,Southern Blood Centre,South Gilberto,2010-04-13
+150,198,1,2025-01-22,O+,471,released,DN9754760,O+,1966,Male,2024-12-31,Eastern Blood Centre,Garnettchester,2007-10-09
+151,196,2,2024-12-23,O+,475,quarantined,DN9326269,O+,1990,Male,2024-12-09,Northern Blood Centre,Gainesville,2004-03-16
+152,29,4,2025-02-03,O+,480,released,DN1564153,O+,1969,Female,2025-01-14,Western Blood Centre,Fort Nestorchester,2013-08-31
+153,67,4,2024-11-14,A+,440,released,DN0928419,A+,1988,Female,2024-11-13,Western Blood Centre,Fort Nestorchester,2013-08-31
+154,2,4,2024-11-26,O+,468,released,DN5417876,O+,1974,Male,2024-11-26,Western Blood Centre,Fort Nestorchester,2013-08-31
+155,188,1,2025-05-28,O+,474,released,DN9402389,O+,1981,Female,2025-01-09,Eastern Blood Centre,Garnettchester,2007-10-09
+156,42,1,2025-02-24,O+,467,released,DN2569082,O+,1961,Female,2024-11-14,Eastern Blood Centre,Garnettchester,2007-10-09
+157,79,3,2024-12-23,A+,466,released,DN7280348,A+,2006,Female,2024-11-27,Southern Blood Centre,South Gilberto,2010-04-13
+158,107,2,2024-10-31,A+,472,released,DN3022326,A+,1989,Male,2024-10-26,Northern Blood Centre,Gainesville,2004-03-16
+159,26,1,2025-04-07,A+,457,released,DN6278108,A+,1967,Female,2024-12-14,Eastern Blood Centre,Garnettchester,2007-10-09
+160,76,4,2024-12-02,O+,457,released,DN5974325,O+,1966,Male,2024-11-12,Western Blood Centre,Fort Nestorchester,2013-08-31
+161,162,1,2024-11-18,O-,446,released,DN5246316,O-,2005,Male,2024-11-02,Eastern Blood Centre,Garnettchester,2007-10-09
+162,4,4,2025-01-05,A+,455,released,DN0780891,A+,1989,Female,2024-10-08,Western Blood Centre,Fort Nestorchester,2013-08-31
+163,216,3,2024-11-04,B+,445,released,DN3228109,B+,2003,Male,2024-10-18,Southern Blood Centre,South Gilberto,2010-04-13
+164,156,4,2025-02-14,A-,451,released,DN9610058,A-,1962,Female,2025-01-29,Western Blood Centre,Fort Nestorchester,2013-08-31
+165,49,3,2025-01-06,A+,464,released,DN9417140,A+,1973,Female,2024-12-10,Southern Blood Centre,South Gilberto,2010-04-13
+166,97,4,2024-11-05,B+,464,released,DN2402292,B+,1992,Male,2024-10-21,Western Blood Centre,Fort Nestorchester,2013-08-31
+167,128,3,2024-10-06,O+,472,released,DN6945106,O+,1966,Male,2024-10-06,Southern Blood Centre,South Gilberto,2010-04-13
+168,169,1,2025-02-05,A+,462,released,DN3626162,A+,1973,Female,2024-10-24,Eastern Blood Centre,Garnettchester,2007-10-09
+169,29,3,2025-05-03,O+,467,released,DN1564153,O+,1969,Female,2025-01-14,Southern Blood Centre,South Gilberto,2010-04-13
+170,31,1,2024-11-04,A+,440,released,DN3560292,A+,1960,Female,2024-10-21,Eastern Blood Centre,Garnettchester,2007-10-09
+171,24,1,2025-04-07,A+,469,released,DN7920684,A+,1998,Female,2024-12-05,Eastern Blood Centre,Garnettchester,2007-10-09
+172,147,1,2024-11-06,A+,462,released,DN4645847,A+,1993,Female,2024-11-01,Eastern Blood Centre,Garnettchester,2007-10-09
+173,7,3,2025-02-06,O+,479,released,DN0667976,O+,1994,Female,2025-01-30,Southern Blood Centre,South Gilberto,2010-04-13
+174,43,1,2025-02-02,A+,444,released,DN5490509,A+,1994,Female,2025-01-11,Eastern Blood Centre,Garnettchester,2007-10-09
+175,65,4,2025-01-24,O+,481,released,DN6498481,O+,1960,Female,2025-01-13,Western Blood Centre,Fort Nestorchester,2013-08-31
+176,181,3,2024-12-21,O-,476,released,DN1939028,O-,1997,Female,2024-12-07,Southern Blood Centre,South Gilberto,2010-04-13
+177,25,1,2025-05-07,B+,460,released,DN5063973,B+,1986,Female,2024-10-20,Eastern Blood Centre,Garnettchester,2007-10-09
+178,85,1,2025-05-16,O+,441,released,DN5478207,O+,1959,Male,2025-01-17,Eastern Blood Centre,Garnettchester,2007-10-09
+179,75,1,2025-02-28,A+,449,released,DN7032251,A+,1961,Male,2024-11-07,Eastern Blood Centre,Garnettchester,2007-10-09
+180,211,1,2025-01-28,O+,483,released,DN5799889,O+,1991,Female,2025-01-23,Eastern Blood Centre,Garnettchester,2007-10-09
+181,76,4,2025-03-23,O+,469,released,DN5974325,O+,1966,Male,2024-11-12,Western Blood Centre,Fort Nestorchester,2013-08-31
+182,33,2,2025-01-27,A-,475,released,DN4027668,A-,1971,Male,2025-01-20,Northern Blood Centre,Gainesville,2004-03-16
+183,144,2,2025-05-05,O+,455,released,DN3442500,O+,1986,Male,2025-01-23,Northern Blood Centre,Gainesville,2004-03-16
+184,118,2,2024-11-22,O+,443,released,DN3158448,O+,1981,Male,2024-11-12,Northern Blood Centre,Gainesville,2004-03-16
+185,111,1,2025-04-21,O+,481,released,DN8697648,O+,1980,Male,2024-10-03,Eastern Blood Centre,Garnettchester,2007-10-09
+186,151,2,2024-11-22,A+,461,released,DN4864266,A+,1990,Male,2024-10-28,Northern Blood Centre,Gainesville,2004-03-16
+187,133,3,2025-01-27,A+,446,released,DN2191793,A+,1987,Male,2025-01-15,Southern Blood Centre,South Gilberto,2010-04-13
+188,204,2,2024-11-13,O+,483,released,DN2909883,O+,1989,Female,2024-10-26,Northern Blood Centre,Gainesville,2004-03-16
+189,60,1,2024-10-15,A-,466,released,DN9379944,A-,1997,Male,2024-10-10,Eastern Blood Centre,Garnettchester,2007-10-09
+190,41,2,2024-12-20,A+,449,released,DN0819220,A+,1965,Male,2024-12-05,Northern Blood Centre,Gainesville,2004-03-16
+191,13,4,2025-01-29,O-,474,released,DN3507378,O-,2003,Female,2025-01-01,Western Blood Centre,Fort Nestorchester,2013-08-31
+192,180,1,2024-11-24,O+,478,discarded,DN4108169,O+,1987,Female,2024-11-22,Eastern Blood Centre,Garnettchester,2007-10-09
+193,66,3,2025-08-25,O+,470,released,DN2866947,O+,1997,Female,2025-01-24,Southern Blood Centre,South Gilberto,2010-04-13
+194,121,4,2025-05-26,A+,469,released,DN5012954,A+,1967,Female,2025-01-18,Western Blood Centre,Fort Nestorchester,2013-08-31
+195,152,3,2025-02-01,O+,442,released,DN5685431,O+,2001,Male,2025-01-27,Southern Blood Centre,South Gilberto,2010-04-13
+196,82,1,2024-10-17,O+,479,released,DN1006534,O+,1963,Male,2024-10-05,Eastern Blood Centre,Garnettchester,2007-10-09
+197,83,1,2025-03-29,A-,482,released,DN7827893,A-,1967,Female,2024-11-11,Eastern Blood Centre,Garnettchester,2007-10-09
+198,116,4,2024-10-14,B+,468,released,DN0013075,B+,2001,Male,2024-10-07,Western Blood Centre,Fort Nestorchester,2013-08-31
+199,56,3,2025-03-02,A+,485,released,DN5520893,A+,1963,Female,2024-11-02,Southern Blood Centre,South Gilberto,2010-04-13
+200,8,4,2025-01-10,O+,469,released,DN9640186,O+,1980,Male,2025-01-07,Western Blood Centre,Fort Nestorchester,2013-08-31
+201,143,2,2025-01-28,AB+,485,released,DN3440493,AB+,2000,Female,2025-01-18,Northern Blood Centre,Gainesville,2004-03-16
+202,107,3,2025-01-26,A+,485,released,DN3022326,A+,1989,Male,2024-10-26,Southern Blood Centre,South Gilberto,2010-04-13
+203,132,4,2024-10-12,O+,483,released,DN7848270,O+,1977,Male,2024-10-03,Western Blood Centre,Fort Nestorchester,2013-08-31
+204,30,3,2025-05-13,A+,467,released,DN6535139,A+,1984,Male,2025-01-25,Southern Blood Centre,South Gilberto,2010-04-13
+205,176,1,2025-06-20,A-,466,released,DN8726669,A-,1968,Female,2024-11-09,Eastern Blood Centre,Garnettchester,2007-10-09
+206,40,4,2024-11-10,A+,477,released,DN4290084,A+,2005,Female,2024-10-23,Western Blood Centre,Fort Nestorchester,2013-08-31
+207,20,1,2024-10-28,A+,468,released,DN5644847,A+,1984,Female,2024-10-14,Eastern Blood Centre,Garnettchester,2007-10-09
+208,201,3,2025-08-22,O-,470,quarantined,DN8666204,O-,1977,Female,2025-01-11,Southern Blood Centre,South Gilberto,2010-04-13
+209,44,1,2025-01-26,B+,455,released,DN1456976,B+,1992,Male,2024-10-21,Eastern Blood Centre,Garnettchester,2007-10-09
+210,143,3,2025-05-11,AB+,471,released,DN3440493,AB+,2000,Female,2025-01-18,Southern Blood Centre,South Gilberto,2010-04-13
+211,135,4,2025-01-18,O+,474,released,DN4178779,O+,1968,Male,2024-12-23,Western Blood Centre,Fort Nestorchester,2013-08-31
+212,5,1,2024-11-25,AB-,453,released,DN9986035,AB-,1962,Male,2024-11-13,Eastern Blood Centre,Garnettchester,2007-10-09
+213,114,2,2025-01-30,A+,462,discarded,DN2724143,A+,1958,Female,2025-01-03,Northern Blood Centre,Gainesville,2004-03-16
+214,207,1,2025-03-11,A-,455,released,DN3442332,A-,1980,Female,2024-11-25,Eastern Blood Centre,Garnettchester,2007-10-09
+215,14,2,2024-12-27,A-,474,released,DN6549409,A-,2000,Female,2024-12-26,Northern Blood Centre,Gainesville,2004-03-16
+216,181,2,2025-03-31,O-,442,released,DN1939028,O-,1997,Female,2024-12-07,Northern Blood Centre,Gainesville,2004-03-16
+217,94,2,2024-11-24,O-,480,released,DN9170436,O-,1999,Male,2024-11-14,Northern Blood Centre,Gainesville,2004-03-16
+218,161,4,2025-01-06,O+,466,released,DN5171045,O+,1961,Male,2024-12-31,Western Blood Centre,Fort Nestorchester,2013-08-31
+219,39,2,2025-01-30,A+,474,released,DN3382696,A+,1976,Male,2025-01-29,Northern Blood Centre,Gainesville,2004-03-16
+220,138,4,2024-11-12,A+,459,released,DN2613896,A+,2004,Female,2024-10-16,Western Blood Centre,Fort Nestorchester,2013-08-31
+221,218,1,2025-01-26,O+,470,released,DN2045225,O+,1962,Female,2025-01-25,Eastern Blood Centre,Garnettchester,2007-10-09
+222,10,1,2025-02-17,O+,442,released,DN3864999,O+,2003,Male,2025-01-22,Eastern Blood Centre,Garnettchester,2007-10-09
+223,52,2,2025-02-07,B+,452,released,DN6649124,B+,1968,Male,2024-10-09,Northern Blood Centre,Gainesville,2004-03-16
+224,18,2,2025-03-14,A+,481,released,DN5659988,A+,1983,Male,2024-11-06,Northern Blood Centre,Gainesville,2004-03-16
+225,148,4,2024-12-31,O-,458,released,DN2404877,O-,1973,Male,2024-12-07,Western Blood Centre,Fort Nestorchester,2013-08-31
+226,113,4,2025-01-10,A+,441,released,DN6471483,A+,1998,Male,2025-01-06,Western Blood Centre,Fort Nestorchester,2013-08-31
+227,179,3,2024-12-24,O+,466,released,DN3869229,O+,1982,Female,2024-12-17,Southern Blood Centre,South Gilberto,2010-04-13
+228,162,2,2025-03-05,O-,447,released,DN5246316,O-,2005,Male,2024-11-02,Northern Blood Centre,Gainesville,2004-03-16
+229,195,2,2024-10-31,O+,453,released,DN6177595,O+,1964,Male,2024-10-05,Northern Blood Centre,Gainesville,2004-03-16
+230,46,3,2024-11-14,B-,444,released,DN4971331,B-,1996,Female,2024-10-29,Southern Blood Centre,South Gilberto,2010-04-13
+231,185,4,2025-01-08,A+,460,released,DN2604190,A+,1981,Male,2025-01-01,Western Blood Centre,Fort Nestorchester,2013-08-31
+232,212,4,2024-12-14,O+,462,released,DN0115468,O+,1992,Female,2024-11-19,Western Blood Centre,Fort Nestorchester,2013-08-31
+233,168,1,2024-10-31,O+,450,released,DN8263408,O+,1996,Male,2024-10-11,Eastern Blood Centre,Garnettchester,2007-10-09
+234,178,2,2025-01-20,A+,453,released,DN1229932,A+,1986,Male,2025-01-18,Northern Blood Centre,Gainesville,2004-03-16
+235,47,2,2024-11-14,O+,467,released,DN2457379,O+,1991,Female,2024-10-23,Northern Blood Centre,Gainesville,2004-03-16
+236,59,2,2024-10-30,O+,456,released,DN2211974,O+,1985,Female,2024-10-27,Northern Blood Centre,Gainesville,2004-03-16
+237,189,4,2024-10-20,B+,441,released,DN9707121,B+,1972,Female,2024-10-02,Western Blood Centre,Fort Nestorchester,2013-08-31
+238,3,2,2024-11-25,A+,476,discarded,DN0097652,A+,1967,Female,2024-11-06,Northern Blood Centre,Gainesville,2004-03-16
+239,37,4,2025-02-07,O+,471,discarded,DN5102323,O+,1965,Female,2024-10-07,Western Blood Centre,Fort Nestorchester,2013-08-31
+240,212,3,2025-03-11,O+,459,released,DN0115468,O+,1992,Female,2024-11-19,Southern Blood Centre,South Gilberto,2010-04-13
+241,21,2,2025-01-02,A+,458,released,DN9308868,A+,1968,Male,2024-12-28,Northern Blood Centre,Gainesville,2004-03-16
+242,62,4,2025-02-25,A+,474,discarded,DN5205924,A+,1965,Female,2025-01-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+243,195,3,2025-01-26,O+,480,released,DN6177595,O+,1964,Male,2024-10-05,Southern Blood Centre,South Gilberto,2010-04-13
+244,126,1,2025-04-01,B+,451,released,DN1844619,B+,1974,Male,2024-11-28,Eastern Blood Centre,Garnettchester,2007-10-09
+245,125,2,2024-11-13,A+,443,released,DN0008408,A+,2000,Female,2024-11-09,Northern Blood Centre,Gainesville,2004-03-16
+246,73,1,2024-12-23,A+,450,released,DN4414319,A+,1984,Male,2024-11-30,Eastern Blood Centre,Garnettchester,2007-10-09
+247,136,4,2025-05-08,A+,457,released,DN7680724,A+,1978,Female,2025-01-19,Western Blood Centre,Fort Nestorchester,2013-08-31
+248,212,3,2025-06-15,O+,440,released,DN0115468,O+,1992,Female,2024-11-19,Southern Blood Centre,South Gilberto,2010-04-13
+249,44,3,2025-05-08,B+,482,released,DN1456976,B+,1992,Male,2024-10-21,Southern Blood Centre,South Gilberto,2010-04-13
+250,156,4,2025-06-07,A-,446,released,DN9610058,A-,1962,Female,2025-01-29,Western Blood Centre,Fort Nestorchester,2013-08-31
+251,133,3,2025-05-14,A+,454,released,DN2191793,A+,1987,Male,2025-01-15,Southern Blood Centre,South Gilberto,2010-04-13
+252,19,4,2025-05-22,O+,466,released,DN9062468,O+,1980,Female,2025-01-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+253,213,1,2025-08-13,A+,478,released,DN7076213,A+,2000,Male,2025-01-19,Eastern Blood Centre,Garnettchester,2007-10-09
+254,69,2,2025-02-15,O+,463,released,DN3328176,O+,1971,Female,2025-01-31,Northern Blood Centre,Gainesville,2004-03-16
+255,142,1,2024-12-16,A-,480,released,DN6150387,A-,1978,Male,2024-12-11,Eastern Blood Centre,Garnettchester,2007-10-09
+256,180,2,2025-02-19,O+,466,released,DN4108169,O+,1987,Female,2024-11-22,Northern Blood Centre,Gainesville,2004-03-16
+257,78,4,2024-12-22,B+,471,released,DN2169796,B+,1974,Male,2024-12-17,Western Blood Centre,Fort Nestorchester,2013-08-31
+258,91,2,2025-06-25,O-,483,released,DN9052211,O-,1996,Female,2024-11-23,Northern Blood Centre,Gainesville,2004-03-16
+259,46,3,2025-02-15,B-,465,released,DN4971331,B-,1996,Female,2024-10-29,Southern Blood Centre,South Gilberto,2010-04-13
+260,197,2,2025-05-23,A-,448,released,DN5533641,A-,1988,Male,2025-01-04,Northern Blood Centre,Gainesville,2004-03-16
+261,26,3,2025-07-06,A+,473,released,DN6278108,A+,1967,Female,2024-12-14,Southern Blood Centre,South Gilberto,2010-04-13
+262,68,1,2025-01-25,A+,478,released,DN1314207,A+,1962,Male,2025-01-16,Eastern Blood Centre,Garnettchester,2007-10-09
+263,82,4,2025-01-16,O+,470,released,DN1006534,O+,1963,Male,2024-10-05,Western Blood Centre,Fort Nestorchester,2013-08-31
+264,210,3,2024-11-14,O+,484,released,DN5523672,O+,1997,Male,2024-10-27,Southern Blood Centre,South Gilberto,2010-04-13
+265,31,4,2025-01-27,A+,442,released,DN3560292,A+,1960,Female,2024-10-21,Western Blood Centre,Fort Nestorchester,2013-08-31
+266,134,4,2024-10-01,O+,465,released,DN2693434,O+,2002,Female,2024-10-01,Western Blood Centre,Fort Nestorchester,2013-08-31
+267,29,2,2025-08-02,O+,442,released,DN1564153,O+,1969,Female,2025-01-14,Northern Blood Centre,Gainesville,2004-03-16
+268,95,4,2024-10-29,O+,447,released,DN7855634,O+,1999,Female,2024-10-24,Western Blood Centre,Fort Nestorchester,2013-08-31
+269,194,4,2024-12-27,B+,471,released,DN2272272,B+,2001,Female,2024-12-21,Western Blood Centre,Fort Nestorchester,2013-08-31
+270,23,3,2024-12-07,A+,447,released,DN8246489,A+,1959,Male,2024-11-08,Southern Blood Centre,South Gilberto,2010-04-13
+271,38,1,2024-10-17,A+,465,released,DN8149893,A+,1977,Male,2024-10-07,Eastern Blood Centre,Garnettchester,2007-10-09
+272,94,1,2025-03-15,O-,476,discarded,DN9170436,O-,1999,Male,2024-11-14,Eastern Blood Centre,Garnettchester,2007-10-09
+273,192,4,2024-11-17,O+,469,released,DN4532075,O+,1993,Female,2024-10-27,Western Blood Centre,Fort Nestorchester,2013-08-31
+274,90,4,2025-01-12,B+,485,released,DN2039983,B+,1961,Male,2025-01-10,Western Blood Centre,Fort Nestorchester,2013-08-31
+275,98,2,2025-06-07,B-,461,released,DN4227481,B-,1964,Female,2025-01-31,Northern Blood Centre,Gainesville,2004-03-16
+276,126,4,2025-06-30,B+,460,released,DN1844619,B+,1974,Male,2024-11-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+277,4,3,2025-04-13,A+,467,released,DN0780891,A+,1989,Female,2024-10-08,Southern Blood Centre,South Gilberto,2010-04-13
+278,137,3,2025-01-25,O+,482,released,DN5565476,O+,1959,Male,2025-01-24,Southern Blood Centre,South Gilberto,2010-04-13
+279,129,2,2024-12-28,AB+,476,released,DN4225781,AB+,1986,Female,2024-12-08,Northern Blood Centre,Gainesville,2004-03-16
+280,95,2,2025-01-25,O+,476,released,DN7855634,O+,1999,Female,2024-10-24,Northern Blood Centre,Gainesville,2004-03-16
+281,185,1,2025-04-16,A+,442,released,DN2604190,A+,1981,Male,2025-01-01,Eastern Blood Centre,Garnettchester,2007-10-09
+282,156,4,2025-09-19,A-,443,released,DN9610058,A-,1962,Female,2025-01-29,Western Blood Centre,Fort Nestorchester,2013-08-31
+283,109,1,2024-10-15,O+,466,released,DN4353828,O+,1996,Female,2024-10-04,Eastern Blood Centre,Garnettchester,2007-10-09
+284,160,3,2025-04-26,A+,450,released,DN7436805,A+,1999,Female,2025-01-03,Southern Blood Centre,South Gilberto,2010-04-13
+285,30,2,2025-08-23,A+,478,released,DN6535139,A+,1984,Male,2025-01-25,Northern Blood Centre,Gainesville,2004-03-16
+286,220,4,2025-02-22,O-,471,discarded,DN4968104,O-,1960,Female,2024-11-19,Western Blood Centre,Fort Nestorchester,2013-08-31
+287,206,1,2024-11-14,A+,479,released,DN5196398,A+,1986,Male,2024-10-23,Eastern Blood Centre,Garnettchester,2007-10-09
+288,184,4,2024-11-20,B+,476,released,DN5976481,B+,1975,Male,2024-11-09,Western Blood Centre,Fort Nestorchester,2013-08-31
+289,120,4,2025-03-19,O+,479,released,DN4594878,O+,1982,Male,2024-11-28,Western Blood Centre,Fort Nestorchester,2013-08-31
+290,71,3,2024-11-19,B+,470,released,DN1885457,B+,1987,Male,2024-10-28,Southern Blood Centre,South Gilberto,2010-04-13
+291,89,3,2024-11-24,A+,470,released,DN8560026,A+,1977,Male,2024-11-08,Southern Blood Centre,South Gilberto,2010-04-13
+292,130,4,2024-11-08,O+,451,released,DN5448797,O+,1999,Female,2024-10-20,Western Blood Centre,Fort Nestorchester,2013-08-31
+293,22,4,2025-01-12,A+,480,released,DN2683251,A+,1984,Male,2024-12-13,Western Blood Centre,Fort Nestorchester,2013-08-31
+294,132,3,2025-01-31,O+,481,released,DN7848270,O+,1977,Male,2024-10-03,Southern Blood Centre,South Gilberto,2010-04-13
+295,76,3,2025-07-10,O+,458,released,DN5974325,O+,1966,Male,2024-11-12,Southern Blood Centre,South Gilberto,2010-04-13
+296,37,2,2025-05-31,O+,474,discarded,DN5102323,O+,1965,Female,2024-10-07,Northern Blood Centre,Gainesville,2004-03-16
+297,190,4,2024-11-08,O+,441,released,DN8477492,O+,1993,Male,2024-10-12,Western Blood Centre,Fort Nestorchester,2013-08-31
+298,36,1,2025-02-03,O-,450,released,DN9397339,O-,2005,Male,2025-01-19,Eastern Blood Centre,Garnettchester,2007-10-09
+299,88,2,2025-07-22,O+,476,released,DN7926056,O+,1998,Female,2024-12-24,Northern Blood Centre,Gainesville,2004-03-16
+300,80,2,2024-12-26,O+,448,released,DN2524837,O+,1975,Female,2024-12-25,Northern Blood Centre,Gainesville,2004-03-16
+301,136,3,2025-08-09,A+,461,released,DN7680724,A+,1978,Female,2025-01-19,Southern Blood Centre,South Gilberto,2010-04-13
+302,178,1,2025-04-15,A+,456,released,DN1229932,A+,1986,Male,2025-01-18,Eastern Blood Centre,Garnettchester,2007-10-09
+303,170,1,2024-10-26,A-,470,released,DN8759868,A-,2002,Male,2024-10-01,Eastern Blood Centre,Garnettchester,2007-10-09
+304,169,4,2025-05-14,A+,446,released,DN3626162,A+,1973,Female,2024-10-24,Western Blood Centre,Fort Nestorchester,2013-08-31
+305,182,2,2025-05-19,O+,477,released,DN9828001,O+,1993,Male,2025-01-15,Northern Blood Centre,Gainesville,2004-03-16
+306,160,4,2025-08-06,A+,475,released,DN7436805,A+,1999,Female,2025-01-03,Western Blood Centre,Fort Nestorchester,2013-08-31
+307,188,2,2025-09-19,O+,466,released,DN9402389,O+,1981,Female,2025-01-09,Northern Blood Centre,Gainesville,2004-03-16
+308,166,3,2025-01-15,A+,482,released,DN7461907,A+,1985,Male,2025-01-03,Southern Blood Centre,South Gilberto,2010-04-13
+309,22,3,2025-04-27,A+,470,released,DN2683251,A+,1984,Male,2024-12-13,Southern Blood Centre,South Gilberto,2010-04-13
+310,108,1,2025-07-05,A+,474,released,DN3575511,A+,2002,Female,2024-11-17,Eastern Blood Centre,Garnettchester,2007-10-09
+311,110,4,2025-02-23,A+,466,released,DN9240211,A+,1988,Male,2024-11-26,Western Blood Centre,Fort Nestorchester,2013-08-31
+312,124,4,2025-06-10,O+,478,released,DN8949180,O+,2003,Female,2024-10-22,Western Blood Centre,Fort Nestorchester,2013-08-31
+313,53,3,2025-02-03,A+,463,released,DN3914357,A+,1974,Male,2025-01-23,Southern Blood Centre,South Gilberto,2010-04-13
+314,145,4,2025-04-10,O+,446,released,DN1244756,O+,1995,Male,2024-12-20,Western Blood Centre,Fort Nestorchester,2013-08-31
+315,20,2,2025-01-31,A+,451,released,DN5644847,A+,1984,Female,2024-10-14,Northern Blood Centre,Gainesville,2004-03-16
+316,133,3,2025-08-31,A+,475,released,DN2191793,A+,1987,Male,2025-01-15,Southern Blood Centre,South Gilberto,2010-04-13
+317,127,2,2024-11-19,B+,440,released,DN9009675,B+,1967,Male,2024-11-14,Northern Blood Centre,Gainesville,2004-03-16
+318,57,2,2025-06-08,A+,483,released,DN1159086,A+,1990,Female,2024-11-15,Northern Blood Centre,Gainesville,2004-03-16
+319,47,4,2025-02-21,O+,481,released,DN2457379,O+,1991,Female,2024-10-23,Western Blood Centre,Fort Nestorchester,2013-08-31
+320,162,3,2025-06-20,O-,454,released,DN5246316,O-,2005,Male,2024-11-02,Southern Blood Centre,South Gilberto,2010-04-13
+321,74,2,2024-12-06,A-,472,released,DN3534826,A-,1959,Male,2024-11-14,Northern Blood Centre,Gainesville,2004-03-16
+322,123,1,2025-07-27,O+,467,released,DN2395421,O+,1973,Female,2025-01-20,Eastern Blood Centre,Garnettchester,2007-10-09
+323,97,4,2025-01-29,B+,472,released,DN2402292,B+,1992,Male,2024-10-21,Western Blood Centre,Fort Nestorchester,2013-08-31
+324,182,2,2025-08-17,O+,470,released,DN9828001,O+,1993,Male,2025-01-15,Northern Blood Centre,Gainesville,2004-03-16
+325,20,1,2025-05-16,A+,485,released,DN5644847,A+,1984,Female,2024-10-14,Eastern Blood Centre,Garnettchester,2007-10-09
+326,72,4,2024-12-28,O+,478,released,DN3583496,O+,1962,Male,2024-12-27,Western Blood Centre,Fort Nestorchester,2013-08-31
+327,9,1,2025-06-24,A+,470,quarantined,DN5706039,A+,1973,Male,2024-11-24,Eastern Blood Centre,Garnettchester,2007-10-09
+328,107,4,2025-05-09,A+,471,released,DN3022326,A+,1989,Male,2024-10-26,Western Blood Centre,Fort Nestorchester,2013-08-31
+329,164,2,2024-12-31,B+,454,released,DN5154538,B+,1980,Male,2024-12-01,Northern Blood Centre,Gainesville,2004-03-16
+330,81,1,2025-08-24,O+,475,released,DN0036424,O+,1982,Female,2025-01-11,Eastern Blood Centre,Garnettchester,2007-10-09
+331,102,4,2024-11-02,O+,461,discarded,DN5755927,O+,2001,Female,2024-10-25,Western Blood Centre,Fort Nestorchester,2013-08-31
+332,130,3,2025-01-31,O+,467,released,DN5448797,O+,1999,Female,2024-10-20,Southern Blood Centre,South Gilberto,2010-04-13
+333,139,4,2025-02-13,A+,441,released,DN0618058,A+,1959,Male,2025-01-24,Western Blood Centre,Fort Nestorchester,2013-08-31
+334,186,4,2024-12-16,A+,485,released,DN3422652,A+,1984,Male,2024-12-02,Western Blood Centre,Fort Nestorchester,2013-08-31
+335,15,1,2024-12-12,B+,465,released,DN0512605,B+,1983,Male,2024-11-20,Eastern Blood Centre,Garnettchester,2007-10-09
+336,165,3,2025-02-24,A+,451,discarded,DN5444514,A+,2001,Male,2025-01-29,Southern Blood Centre,South Gilberto,2010-04-13
+337,131,1,2025-03-22,A+,456,released,DN8584828,A+,1994,Male,2024-11-20,Eastern Blood Centre,Garnettchester,2007-10-09
+338,191,2,2024-12-08,O+,467,released,DN2038684,O+,1969,Male,2024-11-16,Northern Blood Centre,Gainesville,2004-03-16
+339,83,4,2025-07-16,A-,441,released,DN7827893,A-,1967,Female,2024-11-11,Western Blood Centre,Fort Nestorchester,2013-08-31
+340,96,1,2024-12-11,B+,479,released,DN6415698,B+,1999,Female,2024-11-18,Eastern Blood Centre,Garnettchester,2007-10-09

@@ -1,0 +1,7 @@
+dataset,original_rows,cleaned_rows,columns
+centres,4,4,4
+daily_stock,240,240,11
+donors,220,220,6
+donations,340,340,7
+hospitals,10,10,4
+blood_orders,420,420,9

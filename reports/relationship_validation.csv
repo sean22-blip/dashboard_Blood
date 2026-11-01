@@ -1,0 +1,6 @@
+dataset,foreign_key,referenced_dataset,total_records,invalid_references,validation_status
+daily_stock,centre_id,centres,240,0,PASS
+donations,donor_id,donors,340,0,PASS
+donations,centre_id,centres,340,0,PASS
+blood_orders,hospital_id,hospitals,420,0,PASS
+blood_orders,centre_id,centres,420,0,PASS
